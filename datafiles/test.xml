@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player name="Hero" level="5">
+	<inventory>
+		<item id="1" name="Sword" />
+		<item id="2" name="Shield" />
+	</inventory>
+</player>

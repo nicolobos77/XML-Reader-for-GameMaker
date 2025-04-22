@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"xml_reader",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"xml_reader",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
